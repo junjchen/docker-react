@@ -89,7 +89,7 @@
     "react-select": "2.0.0",
     "react-share": "2.3.1",
     "react-swipeable": "4.3.0",
-    "react-visibility-sensor": "3.14.0",
+    "react-visibility-sensor": "4.0.0",
     "redux": "4.0.0",
     "redux-devtools-extension": "2.13.5",
     "redux-raven-middleware": "1.2.0",
